@@ -1,0 +1,501 @@
+,Ticker,Name,CIK
+0,MMM,3M Company,0000066740
+1,ABT,Abbott Laboratories,0000001800
+2,ABBV,AbbVie Inc.,0001551152
+3,ABMD,ABIOMED Inc,0000815094
+4,ACN,Accenture plc,0001467373
+5,ATVI,Activision Blizzard,0000718877
+6,ADBE,Adobe Systems Inc,0000796343
+7,AMD,Advanced Micro Devices Inc,0000002488
+8,AAP,Advance Auto Parts,0001158449
+9,AES,AES Corp,0000874761
+10,AMG,Affiliated Managers Group Inc,0001004434
+11,AFL,AFLAC Inc,0000004977
+12,A,Agilent Technologies Inc,0001090872
+13,APD,Air Products & Chemicals Inc,0000002969
+14,AKAM,Akamai Technologies Inc,0001086222
+15,ALK,Alaska Air Group Inc,0000766421
+16,ALB,Albemarle Corp,0000915913
+17,ARE,Alexandria Real Estate Equities,0001035443
+18,ALXN,Alexion Pharmaceuticals,0000899866
+19,ALGN,Align Technology,0001097149
+20,ALLE,Allegion,0001579241
+21,AGN,"Allergan, Plc",0001578845
+22,ADS,Alliance Data Systems,0001101215
+23,LNT,Alliant Energy Corp,0000352541
+24,ALL,Allstate Corp,0000899051
+25,GOOGL,Alphabet Inc Class A,0001652044
+27,MO,Altria Group Inc,0000764180
+28,AMZN,Amazon.com Inc.,0001018724
+29,AMCR,Amcor plc,0001748790
+30,AEE,Ameren Corp,0001002910
+31,AAL,American Airlines Group,0000006201
+32,AEP,American Electric Power,0000004904
+33,AXP,American Express Co,0000004962
+34,AIG,American International Group,0000005272
+35,AMT,American Tower Corp.,0001053507
+36,AWK,American Water Works Company Inc,0001410636
+37,AMP,Ameriprise Financial,0000820027
+38,ABC,AmerisourceBergen Corp,0001140859
+39,AME,AMETEK Inc.,0001037868
+40,AMGN,Amgen Inc.,0000318154
+41,APH,Amphenol Corp,0000820313
+42,APC,Anadarko Petroleum Corp,0000773910
+43,ADI,"Analog Devices, Inc.",0000006281
+44,ANSS,ANSYS,0001013462
+45,ANTM,Anthem,0001156039
+46,AON,Aon plc,0000315293
+47,AOS,A.O. Smith Corp,0000091142
+48,APA,Apache Corporation,0000006769
+49,AIV,Apartment Investment & Management,0000922864
+50,AAPL,Apple Inc.,0000320193
+51,AMAT,Applied Materials Inc.,0000006951
+52,APTV,Aptiv Plc,0001521332
+53,ADM,Archer-Daniels-Midland Co,0000007084
+54,ARNC,Arconic Inc.,0000004281
+55,ANET,Arista Networks,0001596532
+56,AJG,Arthur J. Gallagher & Co.,0000354190
+57,AIZ,Assurant,0001267238
+58,ATO,Atmos Energy Corp,0000731802
+59,T,AT&T Inc.,0000732717
+60,ADSK,Autodesk Inc.,0000769397
+61,ADP,Automatic Data Processing,0000008670
+62,AZO,AutoZone Inc,0000866787
+63,AVB,"AvalonBay Communities, Inc.",0000915912
+64,AVY,Avery Dennison Corp,0000008818
+65,BHGE,"Baker Hughes, a GE Company",0001701605
+66,BLL,Ball Corp,0000009389
+67,BAC,Bank of America Corp,0000070858
+68,BK,The Bank of New York Mellon Corp.,0001390777
+69,BAX,Baxter International Inc.,0000010456
+70,BBT,BB&T Corporation,0000092230
+71,BDX,Becton Dickinson,0000010795
+72,BRK.B,Berkshire Hathaway,0001067983
+73,BBY,Best Buy Co. Inc.,0000764478
+74,BIIB,Biogen Inc.,0000875045
+75,BLK,BlackRock,0001364742
+76,HRB,Block H&R,0000012659
+77,BA,Boeing Company,0000012927
+78,BKNG,Booking Holdings Inc,0001075531
+79,BWA,BorgWarner,0000908255
+80,BXP,Boston Properties,0001037540
+81,BSX,Boston Scientific,0000885725
+82,BMY,Bristol-Myers Squibb,0000014272
+83,AVGO,Broadcom Inc.,0001730168
+84,BR,Broadridge Financial Solutions,0001383312
+85,BF.B,Brown-Forman Corp.,0000014693
+86,CHRW,C. H. Robinson Worldwide,0001043277
+87,COG,Cabot Oil & Gas,0000858470
+88,CDNS,Cadence Design Systems,0000813672
+89,CPB,Campbell Soup,0000016732
+90,COF,Capital One Financial,0000927628
+91,CPRI,Capri Holdings,0001530721
+92,CAH,Cardinal Health Inc.,0000721371
+93,KMX,Carmax Inc,0001170010
+94,CCL,Carnival Corp.,0000815097
+95,CAT,Caterpillar Inc.,0000018230
+96,CBOE,Cboe Global Markets,0001374310
+97,CBRE,CBRE Group,0001138118
+98,CBS,CBS Corp.,0000813828
+99,CE,Celanese,0001306830
+100,CELG,Celgene Corp.,0000816284
+101,CNC,Centene Corporation,0001071739
+102,CNP,CenterPoint Energy,0001130310
+103,CTL,CenturyLink Inc,0000018926
+104,CERN,Cerner,0000804753
+105,CF,CF Industries Holdings Inc,0001324404
+106,SCHW,Charles Schwab Corporation,0000316709
+107,CHTR,Charter Communications,0001091667
+108,CVX,Chevron Corp.,0000093410
+109,CMG,Chipotle Mexican Grill,0001058090
+110,CB,Chubb Limited,0000896159
+111,CHD,Church & Dwight,0000313927
+112,CI,CIGNA Corp.,0000701221
+113,XEC,Cimarex Energy,0001168054
+114,CINF,Cincinnati Financial,0000020286
+115,CTAS,Cintas Corporation,0000723254
+116,CSCO,Cisco Systems,0000858877
+117,C,Citigroup Inc.,0000831001
+118,CFG,Citizens Financial Group,0000759944
+119,CTXS,Citrix Systems,0000877890
+120,CLX,The Clorox Company,0000021076
+121,CME,CME Group Inc.,0001156375
+122,CMS,CMS Energy,0000811156
+123,KO,Coca-Cola Company,0000021344
+124,CTSH,Cognizant Technology Solutions,0001058290
+125,CL,Colgate-Palmolive,0000021665
+126,CMCSA,Comcast Corp.,0001166691
+127,CMA,Comerica Inc.,0000028412
+128,CAG,Conagra Brands,0000023217
+129,CXO,Concho Resources,0001358071
+130,COP,ConocoPhillips,0001163165
+131,ED,Consolidated Edison,0001047862
+132,STZ,Constellation Brands,0000016918
+133,COO,The Cooper Companies,0000711404
+134,CPRT,Copart Inc,0000900075
+135,GLW,Corning Inc.,0000024741
+136,CTVA,Corteva,0001755672
+137,COST,Costco Wholesale Corp.,0000909832
+138,COTY,"Coty, Inc",0001024305
+139,CCI,Crown Castle International Corp.,0001051470
+140,CSX,CSX Corp.,0000277948
+141,CMI,Cummins Inc.,0000026172
+142,CVS,CVS Health,0000064803
+143,DHI,D. R. Horton,0000882184
+144,DHR,Danaher Corp.,0000313616
+145,DRI,Darden Restaurants,0000940944
+146,DVA,DaVita Inc.,0000927066
+147,DE,Deere & Co.,0000315189
+148,DAL,Delta Air Lines Inc.,0000027904
+149,XRAY,Dentsply Sirona,0000818479
+150,DVN,Devon Energy,0001090012
+151,FANG,Diamondback Energy,0001539838
+152,DLR,Digital Realty Trust Inc,0001297996
+153,DFS,Discover Financial Services,0001393612
+154,DISCA,Discovery Inc. Class A,0001437107
+156,DISH,Dish Network,0001001082
+157,DG,Dollar General,0000029534
+158,DLTR,Dollar Tree,0000935703
+159,D,Dominion Energy,0000715957
+160,DOV,Dover Corp.,0000029905
+161,DOW,Dow Inc.,0001751788
+162,DTE,DTE Energy Co.,0000936340
+163,DUK,Duke Energy,0001326160
+164,DRE,Duke Realty Corp,0000783280
+165,DD,DuPont de Nemours Inc,0001666700
+166,DXC,DXC Technology,0001688568
+167,ETFC,E*Trade,0001015780
+168,EMN,Eastman Chemical,0000915389
+169,ETN,Eaton Corporation,0001551182
+170,EBAY,eBay Inc.,0001065088
+171,ECL,Ecolab Inc.,0000031462
+172,EIX,Edison Int'l,0000827052
+173,EW,Edwards Lifesciences,0001099800
+174,EA,Electronic Arts,0000712515
+175,EMR,Emerson Electric Company,0000032604
+176,ETR,Entergy Corp.,0000065984
+177,EOG,EOG Resources,0000821189
+178,EFX,Equifax Inc.,0000033185
+179,EQIX,Equinix,0001101239
+180,EQR,Equity Residential,0000906107
+181,ESS,"Essex Property Trust, Inc.",0000920522
+182,EL,Estee Lauder Cos.,0001001250
+183,EVRG,Evergy,0001711269
+184,ES,Eversource Energy,0000072741
+185,RE,Everest Re Group Ltd.,0001095073
+186,EXC,Exelon Corp.,0001109357
+187,EXPE,Expedia Group,0001324424
+188,EXPD,Expeditors,0000746515
+189,EXR,Extra Space Storage,0001289490
+190,XOM,Exxon Mobil Corp.,0000034088
+191,FFIV,F5 Networks,0001048695
+192,FB,"Facebook, Inc.",0001326801
+193,FAST,Fastenal Co,0000815556
+194,FRT,Federal Realty Investment Trust,0000034903
+195,FDX,FedEx Corporation,0001048911
+196,FIS,Fidelity National Information Services,0001136893
+197,FITB,Fifth Third Bancorp,0000035527
+198,FE,FirstEnergy Corp,0001031296
+199,FRC,First Republic Bank,0001132979
+200,FISV,Fiserv Inc,0000798354
+201,FLT,FleetCor Technologies Inc,0001175454
+202,FLIR,FLIR Systems,0000354908
+203,FLS,Flowserve Corporation,0000030625
+204,FMC,FMC Corporation,0000037785
+205,FL,Foot Locker Inc,0000850209
+206,F,Ford Motor,0000037996
+207,FTNT,Fortinet,0001262039
+208,FTV,Fortive Corp,0001659166
+209,FBHS,Fortune Brands Home & Security,0001519751
+210,FOXA,Fox Corporation Class A,0001308161
+212,BEN,Franklin Resources,0000038777
+213,FCX,Freeport-McMoRan Inc.,0000831259
+214,GPS,Gap Inc.,0000039911
+215,GRMN,Garmin Ltd.,0001121788
+216,IT,Gartner Inc,0000749251
+217,GD,General Dynamics,0000040533
+218,GE,General Electric,0000040545
+219,GIS,General Mills,0000040704
+220,GM,General Motors,0001467858
+221,GPC,Genuine Parts,0000040987
+222,GILD,Gilead Sciences,0000882095
+223,GPN,Global Payments Inc.,0001123360
+224,GS,Goldman Sachs Group,0000886982
+225,GWW,Grainger (W.W.) Inc.,0000277135
+226,HAL,Halliburton Co.,0000045012
+227,HBI,Hanesbrands Inc,0001359841
+228,HOG,Harley-Davidson,0000793952
+229,HIG,Hartford Financial Svc.Gp.,0000874766
+230,HAS,Hasbro Inc.,0000046080
+231,HCA,HCA Healthcare,0000860730
+232,HCP,HCP Inc.,0000765880
+233,HP,Helmerich & Payne,0000046765
+234,HSIC,Henry Schein,0001000228
+235,HSY,The Hershey Company,0000047111
+236,HES,Hess Corporation,0000004447
+237,HPE,Hewlett Packard Enterprise,0001645590
+238,HLT,Hilton Worldwide Holdings Inc,0001585689
+239,HFC,HollyFrontier Corp,0000048039
+240,HOLX,Hologic,0000859737
+241,HD,Home Depot,0000354950
+242,HON,Honeywell Int'l Inc.,0000773840
+243,HRL,Hormel Foods Corp.,0000048465
+244,HST,Host Hotels & Resorts,0001070750
+245,HPQ,HP Inc.,0000047217
+246,HUM,Humana Inc.,0000049071
+247,HBAN,Huntington Bancshares,0000049196
+248,HII,Huntington Ingalls Industries,0001501585
+249,IDXX,IDEXX Laboratories,0000874716
+250,INFO,IHS Markit Ltd.,0001598014
+251,ITW,Illinois Tool Works,0000049826
+252,ILMN,Illumina Inc,0001110803
+253,IR,Ingersoll-Rand PLC,0001466258
+254,INTC,Intel Corp.,0000050863
+255,ICE,Intercontinental Exchange,0001571949
+256,IBM,International Business Machines,0000051143
+257,INCY,Incyte,0000879169
+258,IP,International Paper,0000051434
+259,IPG,Interpublic Group,0000051644
+260,IFF,Intl Flavors & Fragrances,0000051253
+261,INTU,Intuit Inc.,0000896878
+262,ISRG,Intuitive Surgical Inc.,0001035267
+263,IVZ,Invesco Ltd.,0000914208
+264,IPGP,IPG Photonics Corp.,0001111928
+265,IQV,IQVIA Holdings Inc.,0001478242
+266,IRM,Iron Mountain Incorporated,0001020569
+267,JKHY,Jack Henry & Associates,0000779152
+268,JEC,Jacobs Engineering Group,0000052988
+269,JBHT,J. B. Hunt Transport Services,0000728535
+270,JEF,Jefferies Financial Group,0000096223
+271,SJM,JM Smucker,0000091419
+272,JNJ,Johnson & Johnson,0000200406
+273,JCI,Johnson Controls International,0000833444
+274,JPM,JPMorgan Chase & Co.,0000019617
+275,JNPR,Juniper Networks,0001043604
+276,KSU,Kansas City Southern,0000054480
+277,K,Kellogg Co.,0000055067
+278,KEY,KeyCorp,0000091576
+279,KEYS,Keysight Technologies,0001601046
+280,KMB,Kimberly-Clark,0000055785
+281,KIM,Kimco Realty,0000879101
+282,KMI,Kinder Morgan,0001506307
+283,KLAC,KLA-Tencor Corp.,0000319201
+284,KSS,Kohl's Corp.,0000885639
+285,KHC,Kraft Heinz Co,0001637459
+286,KR,Kroger Co.,0000056873
+287,LB,L Brands Inc.,0000701985
+288,LHX,L3Harris Technologies,0000202058
+289,LH,Laboratory Corp. of America Holding,0000920148
+290,LRCX,Lam Research,0000707549
+291,LW,Lamb Weston Holdings Inc,0001679273
+292,LEG,Leggett & Platt,0000058492
+293,LEN,Lennar Corp.,0000920760
+294,LLY,Lilly (Eli) & Co.,0000059478
+295,LNC,Lincoln National,0000059558
+296,LIN,Linde plc,0001707925
+297,LKQ,LKQ Corporation,0001065696
+298,LMT,Lockheed Martin Corp.,0000936468
+299,L,Loews Corp.,0000060086
+300,LOW,Lowe's Cos.,0000060667
+301,LYB,LyondellBasell,0001489393
+302,MTB,M&T Bank Corp.,0000036270
+303,MAC,Macerich,0000912242
+304,M,Macy's Inc.,0000794367
+305,MRO,Marathon Oil Corp.,0000101778
+306,MPC,Marathon Petroleum,0001510295
+307,MKTX,MarketAxess,0001278021
+308,MAR,Marriott Int'l.,0001048286
+309,MMC,Marsh & McLennan,0000062709
+310,MLM,Martin Marietta Materials,0000916076
+311,MAS,Masco Corp.,0000062996
+312,MA,Mastercard Inc.,0001141391
+313,MKC,McCormick & Co.,0000063754
+314,MXIM,Maxim Integrated Products Inc,0000743316
+315,MCD,McDonald's Corp.,0000063908
+316,MCK,McKesson Corp.,0000927653
+317,MDT,Medtronic plc,0001613103
+318,MRK,Merck & Co.,0000310158
+319,MET,MetLife Inc.,0001099219
+320,MTD,Mettler Toledo,0001037646
+321,MGM,MGM Resorts International,0000789570
+322,MCHP,Microchip Technology,0000827054
+323,MU,Micron Technology,0000723125
+324,MSFT,Microsoft Corp.,0000789019
+325,MAA,Mid-America Apartments,0000912595
+326,MHK,Mohawk Industries,0000851968
+327,TAP,Molson Coors Brewing Company,0000024545
+328,MDLZ,Mondelez International,0001103982
+329,MNST,Monster Beverage,0000865752
+330,MCO,Moody's Corp,0001059556
+331,MS,Morgan Stanley,0000895421
+332,MOS,The Mosaic Company,0001285785
+333,MSI,Motorola Solutions Inc.,0000068505
+334,MSCI,MSCI Inc,0001408198
+335,MYL,Mylan N.V.,0001623613
+336,NDAQ,"Nasdaq, Inc.",0001120193
+337,NOV,National Oilwell Varco Inc.,0001021860
+338,NKTR,Nektar Therapeutics,0000906709
+339,NTAP,NetApp,0001002047
+340,NFLX,Netflix Inc.,0001065280
+341,NWL,Newell Brands,0000814453
+342,NEM,Newmont Goldcorp,0001164727
+343,NWSA,News Corp. Class A,0001564708
+345,NEE,NextEra Energy,0000753308
+346,NLSN,Nielsen Holdings,0001492633
+347,NKE,Nike,0000320187
+348,NI,NiSource Inc.,0001111711
+349,NBL,Noble Energy Inc,0000072207
+350,JWN,Nordstrom,0000072333
+351,NSC,Norfolk Southern Corp.,0000702165
+352,NTRS,Northern Trust Corp.,0000073124
+353,NOC,Northrop Grumman,0001133421
+354,NCLH,Norwegian Cruise Line Holdings,0001513761
+355,NRG,NRG Energy,0001013871
+356,NUE,Nucor Corp.,0000073309
+357,NVDA,Nvidia Corporation,0001045810
+358,ORLY,O'Reilly Automotive,0000898173
+359,OXY,Occidental Petroleum,0000797468
+360,OMC,Omnicom Group,0000029989
+361,OKE,ONEOK,0001039684
+362,ORCL,Oracle Corp.,0001341439
+363,PCAR,PACCAR Inc.,0000075362
+364,PKG,Packaging Corporation of America,0000075677
+365,PH,Parker-Hannifin,0000076334
+366,PAYX,Paychex Inc.,0000723531
+367,PYPL,PayPal,0001633917
+368,PNR,Pentair plc,0000077360
+369,PBCT,People's United Financial,0001378946
+370,PEP,PepsiCo Inc.,0000077476
+371,PKI,PerkinElmer,0000031791
+372,PRGO,Perrigo,0001585364
+373,PFE,Pfizer Inc.,0000078003
+374,PM,Philip Morris International,0001413329
+375,PSX,Phillips 66,0001534701
+376,PNW,Pinnacle West Capital,0000764622
+377,PXD,Pioneer Natural Resources,0001038357
+378,PNC,PNC Financial Services,0000713676
+379,PPG,PPG Industries,0000079879
+380,PPL,PPL Corp.,0000922224
+381,PFG,Principal Financial Group,0001126328
+382,PG,Procter & Gamble,0000080424
+383,PGR,Progressive Corp.,0000080661
+384,PLD,Prologis,0001045609
+385,PRU,Prudential Financial,0001137774
+386,PEG,Public Serv. Enterprise Inc.,0000788784
+387,PSA,Public Storage,0001393311
+388,PHM,Pulte Homes Inc.,0000822416
+389,PVH,PVH Corp.,0000078239
+390,QRVO,Qorvo,0001604778
+391,PWR,Quanta Services Inc.,0001050915
+392,QCOM,QUALCOMM Inc.,0000804328
+393,DGX,Quest Diagnostics,0001022079
+394,RL,Ralph Lauren Corporation,0001037038
+395,RJF,Raymond James Financial Inc.,0000720005
+396,RTN,Raytheon Co.,0001047122
+397,O,Realty Income Corporation,0000726728
+398,RHT,Red Hat Inc.,0001087423
+399,REG,Regency Centers Corporation,0000910606
+400,REGN,Regeneron,0000872589
+401,RF,Regions Financial Corp.,0001281761
+402,RSG,Republic Services Inc,0001060391
+403,RMD,ResMed,0000943819
+404,RHI,Robert Half International,0000315213
+405,ROK,Rockwell Automation Inc.,0001024478
+406,ROL,Rollins Inc.,0000084839
+407,ROP,Roper Technologies,0000882835
+408,ROST,Ross Stores,0000745732
+409,RCL,Royal Caribbean Cruises Ltd,0000884887
+410,CRM,Salesforce.com,0001108524
+411,SBAC,SBA Communications,0001034054
+412,SLB,Schlumberger Ltd.,0000087347
+413,STX,Seagate Technology,0001137789
+414,SEE,Sealed Air,0001012100
+415,SRE,Sempra Energy,0001032208
+416,SHW,Sherwin-Williams,0000089800
+417,SPG,Simon Property Group Inc,0001063761
+418,SWKS,Skyworks Solutions,0000004127
+419,SLG,SL Green Realty,0001040971
+420,SNA,Snap-on,0000091440
+421,SO,Southern Co.,0000092122
+422,LUV,Southwest Airlines,0000092380
+423,SPGI,"S&P Global, Inc.",0000064040
+424,SWK,Stanley Black & Decker,0000093556
+425,SBUX,Starbucks Corp.,0000829224
+426,STT,State Street Corp.,0000093751
+427,SYK,Stryker Corp.,0000310764
+428,STI,SunTrust Banks,0000750556
+429,SIVB,SVB Financial,0000719739
+430,SYMC,Symantec Corp.,0000849399
+431,SYF,Synchrony Financial,0001601712
+432,SNPS,Synopsys Inc.,0000883241
+433,SYY,Sysco Corp.,0000096021
+434,TROW,T. Rowe Price Group,0001113169
+435,TTWO,Take-Two Interactive,0000946581
+436,TPR,"Tapestry, Inc.",0001116132
+437,TGT,Target Corp.,0000027419
+438,TEL,TE Connectivity Ltd.,0001385157
+439,FTI,TechnipFMC,0001681459
+440,TFX,Teleflex,0000096943
+441,TXN,Texas Instruments,0000097476
+442,TXT,Textron Inc.,0000217346
+443,TMO,Thermo Fisher Scientific,0000097745
+444,TIF,Tiffany & Co.,0000098246
+445,TWTR,"Twitter, Inc.",0001418091
+446,TJX,TJX Companies Inc.,0000109198
+447,TMK,Torchmark Corp.,0000320335
+448,TSS,Total System Services,0000721683
+449,TSCO,Tractor Supply Company,0000916365
+450,TDG,TransDigm Group,0001260221
+451,TRV,The Travelers Companies Inc.,0000086312
+452,TRIP,TripAdvisor,0001526520
+453,TSN,Tyson Foods,0000100493
+454,UDR,"UDR, Inc.",0000074208
+455,ULTA,Ulta Beauty,0001403568
+456,USB,U.S. Bancorp,0000036104
+457,UAA,Under Armour Class A,0001336917
+459,UNP,Union Pacific Corp,0000100885
+460,UAL,United Airlines Holdings,0000100517
+461,UNH,United Health Group Inc.,0000731766
+462,UPS,United Parcel Service,0001090727
+463,URI,"United Rentals, Inc.",0001067701
+464,UTX,United Technologies,0000101829
+465,UHS,"Universal Health Services, Inc.",0000352915
+466,UNM,Unum Group,0000005513
+467,VFC,V.F. Corp.,0000103379
+468,VLO,Valero Energy,0001035002
+469,VAR,Varian Medical Systems,0000203527
+470,VTR,Ventas Inc,0000740260
+471,VRSN,Verisign Inc.,0001014473
+472,VRSK,Verisk Analytics,0001442145
+473,VZ,Verizon Communications,0000732712
+474,VRTX,Vertex Pharmaceuticals Inc,0000875320
+475,VIAB,Viacom Inc.,0001339947
+476,V,Visa Inc.,0001403161
+477,VNO,Vornado Realty Trust,0000899689
+478,VMC,Vulcan Materials,0001396009
+479,WAB,Wabtec Corporation,0000943452
+480,WMT,Walmart,0000104169
+481,WBA,Walgreens Boots Alliance,0001618921
+482,DIS,The Walt Disney Company,0001001039
+483,WM,Waste Management Inc.,0000823768
+484,WAT,Waters Corporation,0001000697
+485,WEC,Wec Energy Group Inc,0000783325
+486,WCG,WellCare,0001279363
+487,WFC,Wells Fargo,0000072971
+488,WELL,Welltower Inc.,0000766704
+489,WDC,Western Digital,0000106040
+490,WU,Western Union Co,0001365135
+491,WRK,WestRock,0001636023
+492,WY,Weyerhaeuser,0000106535
+493,WHR,Whirlpool Corp.,0000106640
+494,WMB,Williams Cos.,0000107263
+495,WLTW,Willis Towers Watson,0001140536
+496,WYNN,Wynn Resorts Ltd,0001174922
+497,XEL,Xcel Energy Inc,0000072903
+498,XRX,Xerox,0000108772
+499,XLNX,Xilinx,0000743988
+500,XYL,Xylem Inc.,0001524472
+501,YUM,Yum! Brands Inc,0001041061
+502,ZBH,Zimmer Biomet Holdings,0001136869
+503,ZION,Zions Bancorp,0000109380
+504,ZTS,Zoetis,0001555280
